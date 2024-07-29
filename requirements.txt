@@ -1,10 +1,10 @@
-sentence-transformers
-uvicorn
 ctransformers
-langchain
-python-box
-streamlit
 groq
-langchain-groq
-python-dotenv
+langchain
 langchain-community
+langchain-groq
+python-box
+python-dotenv
+sentence-transformers
+streamlit
+uvicorn

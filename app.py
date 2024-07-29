@@ -11,7 +11,7 @@ load_dotenv()
 import os
 
 # Load the Groq API key
-# groq_api_key = os.getenv('GROQ_API_KEY')
+groq_api_key = os.getenv('GROQ_API_KEY')
 
 # Funciton to get respone from LLAma 2 model
 def getLLamaresponse(input_text):
